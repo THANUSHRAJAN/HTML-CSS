@@ -1,0 +1,15 @@
+.one{
+        text-shadow: -5px 5px 5px rgb(240, 161, 15);
+        color: green;
+}
+.a{
+        text-shadow: 0px 0px 5px rgb(19, 34, 255), 0px 0px 10px rgb(241, 14, 223);
+}
+.b{
+        background-color: rgba(255, 0, 0,0.5);
+        opacity: 0.3;
+}
+.c{
+        background-color: rgba(166, 255, 0, 0.877);
+        opacity: 0.8;
+}
