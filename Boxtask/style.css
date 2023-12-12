@@ -1,0 +1,31 @@
+ h1{
+            margin: 20px 30px 30px 20px;
+            padding: 0;
+            border-width: 20px;
+            border-style: groove;
+            border-color: blue yellow green red;
+            width: 200px;
+            height: 100px;
+            background-color: skyblue;
+}
+p{
+            border-width: 10px;
+            border-style: ridge;
+            border-color: green yellow red blue;
+            width: 200px;
+            height: 100px;
+            margin: 100px 400px 40px 500px;
+            background-color: red;
+            color: aliceblue;
+}
+.one{
+            margin: 120px 20px 30px 1050px;
+            padding: 0;
+            border-width: 20px;
+            border-style: groove;
+            border-color: blue yellow green red;
+            width: 200px;
+            height: 100px;
+            background-color: greenyellow;
+
+}
