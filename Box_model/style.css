@@ -1,0 +1,12 @@
+*{
+        margin: 0px;
+        padding: 0px;
+}
+
+p{
+        border-width: 20px 15px 10px 5px;
+        border-style: solid;
+        border-color: blue rgb(14, 248, 14) rgba(12, 180, 231, 0.781);
+        margin: 0px;
+    
+}
